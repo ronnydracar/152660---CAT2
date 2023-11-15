@@ -1,3 +1,7 @@
+//Admission Number 152660
+//Course DBIT Sep-Dec 2023
+//Strathmore University
+
 #include <iostream>
 using namespace std;
 
